@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennisemp&label=Profile%20views&color=0e75b6&style=flat" alt="dennisemp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennisemp" alt="dennisemp" /></a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DennisEmp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DennisEmp&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisEmp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DennisEmp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DennisEmp&icon=5&color=7)](https://visitcount.itsvg.in)
+
 
 - 🌱 I’m currently learning **Angular**
 
@@ -28,5 +38,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisemp&show_icons=true&locale=en" alt="dennisemp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennisemp&" alt="dennisemp" /></p>
+
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/DennisEmp) 
+
 
 
