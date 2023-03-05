@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Empirio</h1>
-<h3 align="center">I'm an Italian web dev who's always looking to up my game and learn more. Some folks might say I spend too much time in front of the screen, but I prefer to think of my screen as my ride-or-die work buddy. We're tight, you know what I mean? All jokes aside, I love to team up with others and build fresh, user-friendly solutions. I'm always on the lookout for new challenges and opportunities to level up my skills. Can't wait to see where the future takes me!</h3>
+<h3 align="center">I'm an Italian Jr web dev who's always looking to up my game and learn more. Some folks might say I spend too much time in front of the screen, but I prefer to think of my screen as my ride-or-die work buddy. We're tight, you know what I mean? All jokes aside, I love to team up with others and build fresh, user-friendly solutions. I'm always on the lookout for new challenges and opportunities to level up my skills. Can't wait to see where the future takes me!</h3>
 
 
 # 📊 GitHub Stats:
